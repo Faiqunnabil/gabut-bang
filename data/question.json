@@ -1,22 +1,17 @@
 [
   {
-    "question": "What does HTML stand for?",
-    "answer": [
-      "Hyper Text Markup Language",
-      "Home Tool Markup Language",
-      "Hyperlinks and Text Markup Language",
-      "Hyperlink Text Markup Language"
-    ],
-    "key": "Hyper Text Markup Language"
+    "question": "What is the chemical symbol for water?",
+    "answer": ["H₂O", "O₂", "CO₂", "H₂"],
+    "key": "H₂O"
   },
   {
-    "question": "Which sorting algorithm has an average time complexity of O(n log n)?",
-    "answer": ["Bubble Sort", "Quick Sort", "Insertion Sort", "Merge Sort"],
-    "key": "Merge Sort"
+    "question": "What is the process by which plants make their food called?",
+    "answer": ["Photosynthesis", "Respiration", "Transpiration", "Digestion"],
+    "key": "Photosynthesis"
   },
   {
-    "question": "Which data structure operates on a Last In First Out (LIFO) principle?",
-    "answer": ["Queue", "Heap", "Stack", "Linked List"],
-    "key": "Stack"
+    "question": "Which planet is known as the Red Planet?",
+    "answer": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "key": "Mars"
   }
 ]
