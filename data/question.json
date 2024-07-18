@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answer": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyperlink Text Markup Language"
+    ],
+    "key": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which sorting algorithm has an average time complexity of O(n log n)?",
+    "answer": ["Bubble Sort", "Quick Sort", "Insertion Sort", "Merge Sort"],
+    "key": "Merge Sort"
+  },
+  {
+    "question": "Which data structure operates on a Last In First Out (LIFO) principle?",
+    "answer": ["Queue", "Heap", "Stack", "Linked List"],
+    "key": "Stack"
+  }
+]
